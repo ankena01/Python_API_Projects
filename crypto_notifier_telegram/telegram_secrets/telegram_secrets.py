@@ -1,0 +1,1 @@
+telegram_token = # Yout token for bot Telegram cap
