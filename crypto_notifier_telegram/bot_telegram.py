@@ -20,7 +20,7 @@ raw_time = datetime.now(IST)
 curr_date = raw_time.strftime("%d-%m-%Y")
 curr_time = raw_time.strftime("%H-%M-%S")
 
-# 2107313679:AAFFkhKzViwwntQhV88iPlSS5Io52IMWt9A
+
 telegram_auth_token = telegram_secrets.telegram_token
 telegram_group_id = "crypto_notifier_3"
 
